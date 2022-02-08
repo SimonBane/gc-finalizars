@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GC_Finalizaers", "GC_Finalizaers\GC_Finalizaers.csproj", "{543DD1AC-6DA4-430E-990C-A8F7D1CBE67E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{543DD1AC-6DA4-430E-990C-A8F7D1CBE67E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{543DD1AC-6DA4-430E-990C-A8F7D1CBE67E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{543DD1AC-6DA4-430E-990C-A8F7D1CBE67E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{543DD1AC-6DA4-430E-990C-A8F7D1CBE67E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
